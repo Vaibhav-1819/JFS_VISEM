@@ -1,0 +1,5 @@
+# Created at 2025-12-09T11:20:48.142
+Boot Manifest-JAR contains absolute paths in classpath 'D:\vaibhav\PAT\JFS\JFS_VISEM\maven_projects\kalki\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
