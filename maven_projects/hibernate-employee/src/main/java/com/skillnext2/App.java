@@ -23,7 +23,7 @@ public class App {
         tx.commit();
         session.close();
 
-        System.out.println("Employee inserted successfully!");
+        System.out.println("Employee Details inserted successfully!");
     }
 }
 
