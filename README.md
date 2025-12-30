@@ -1,5 +1,5 @@
 # JFS_VISEM
 
-This repository contains my **Maven-based Java projects** created during **Java Full Stack classes under PAT (Placement Assistance Training)**, along with additional practice and learning projects.
+This repository contains a collection of **Maven-based Java projects** developed during my **Java Full Stack training under PAT (Placement Assistance Training)**, along with additional practice and self-learning projects.
 
-It serves as a **personal learning archive** to track my progress and hands-on experience in Java Full Stack development.
+The projects in this repository cover various concepts taught in class, including core Java, Maven project structure, backend development, and basic frontend integration. This repository acts as a **central place to store, revise, and track my learning progress** throughout the Java Full Stack journey.
